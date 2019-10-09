@@ -1,0 +1,12 @@
+C:\Users\Owner\source\repos\GraphPartitioning\gvLib\bin\Debug\gvLib.dll
+C:\Users\Owner\source\repos\GraphPartitioning\gvLib\bin\Debug\gvLib.pdb
+C:\Users\Owner\source\repos\GraphPartitioning\gvLib\obj\Debug\gvLib.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\GraphPartitioning\gvLib\obj\Debug\gvLib.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\GraphPartitioning\gvLib\obj\Debug\gvLib.dll
+C:\Users\Owner\source\repos\GraphPartitioning\gvLib\obj\Debug\gvLib.pdb
+C:\Users\HP\Desktop\GraphPartitioning\gvLib\bin\Debug\GvLib.dll
+C:\Users\HP\Desktop\GraphPartitioning\gvLib\bin\Debug\GvLib.pdb
+C:\Users\HP\Desktop\GraphPartitioning\gvLib\obj\Debug\GvLib.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\GraphPartitioning\gvLib\obj\Debug\GvLib.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\GraphPartitioning\gvLib\obj\Debug\GvLib.dll
+C:\Users\HP\Desktop\GraphPartitioning\gvLib\obj\Debug\GvLib.pdb

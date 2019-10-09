@@ -1,0 +1,55 @@
+C:\Users\Owner\Desktop\КР\GraphPartitioning\GraphPartitioning\bin\Release\GraphPartitioning.exe.config
+C:\Users\Owner\Desktop\КР\GraphPartitioning\GraphPartitioning\bin\Release\GraphPartitioning.exe
+C:\Users\Owner\Desktop\КР\GraphPartitioning\GraphPartitioning\bin\Release\GraphPartitioning.pdb
+C:\Users\Owner\Desktop\КР\GraphPartitioning\GraphPartitioning\bin\Release\GraphPartitioningLibrary.dll
+C:\Users\Owner\Desktop\КР\GraphPartitioning\GraphPartitioning\bin\Release\GraphPartitioningLibrary.pdb
+C:\Users\Owner\Desktop\КР\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\КР\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.MainForm.resources
+C:\Users\Owner\Desktop\КР\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.Properties.Resources.resources
+C:\Users\Owner\Desktop\КР\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\КР\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\КР\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.csproj.CopyComplete
+C:\Users\Owner\Desktop\КР\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.exe
+C:\Users\Owner\Desktop\КР\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.pdb
+C:\Users\Owner\Desktop\graph-partitioning\GraphPartitioning\GraphPartitioning\bin\Release\GraphPartitioning.exe.config
+C:\Users\Owner\Desktop\graph-partitioning\GraphPartitioning\GraphPartitioning\bin\Release\GraphPartitioning.exe
+C:\Users\Owner\Desktop\graph-partitioning\GraphPartitioning\GraphPartitioning\bin\Release\GraphPartitioning.pdb
+C:\Users\Owner\Desktop\graph-partitioning\GraphPartitioning\GraphPartitioning\bin\Release\GraphPartitioningLibrary.dll
+C:\Users\Owner\Desktop\graph-partitioning\GraphPartitioning\GraphPartitioning\bin\Release\GraphPartitioningLibrary.pdb
+C:\Users\Owner\Desktop\graph-partitioning\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\graph-partitioning\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.MainForm.resources
+C:\Users\Owner\Desktop\graph-partitioning\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.Properties.Resources.resources
+C:\Users\Owner\Desktop\graph-partitioning\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.RandomGraphForm.resources
+C:\Users\Owner\Desktop\graph-partitioning\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\graph-partitioning\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\graph-partitioning\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.csproj.CopyComplete
+C:\Users\Owner\Desktop\graph-partitioning\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.exe
+C:\Users\Owner\Desktop\graph-partitioning\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.pdb
+C:\Users\nyada\Desktop\graph-partitioning\GraphPartitioning\GraphPartitioning\bin\Release\GraphPartitioning.exe.config
+C:\Users\nyada\Desktop\graph-partitioning\GraphPartitioning\GraphPartitioning\bin\Release\GraphPartitioning.exe
+C:\Users\nyada\Desktop\graph-partitioning\GraphPartitioning\GraphPartitioning\bin\Release\GraphPartitioning.pdb
+C:\Users\nyada\Desktop\graph-partitioning\GraphPartitioning\GraphPartitioning\bin\Release\GraphPartitioningLibrary.dll
+C:\Users\nyada\Desktop\graph-partitioning\GraphPartitioning\GraphPartitioning\bin\Release\GraphPartitioningLibrary.pdb
+C:\Users\nyada\Desktop\graph-partitioning\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.csprojAssemblyReference.cache
+C:\Users\nyada\Desktop\graph-partitioning\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.MainForm.resources
+C:\Users\nyada\Desktop\graph-partitioning\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.Properties.Resources.resources
+C:\Users\nyada\Desktop\graph-partitioning\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.RandomGraphForm.resources
+C:\Users\nyada\Desktop\graph-partitioning\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.csproj.GenerateResource.cache
+C:\Users\nyada\Desktop\graph-partitioning\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.csproj.CoreCompileInputs.cache
+C:\Users\nyada\Desktop\graph-partitioning\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.csproj.CopyComplete
+C:\Users\nyada\Desktop\graph-partitioning\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.exe
+C:\Users\nyada\Desktop\graph-partitioning\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.pdb
+C:\Users\Owner\Desktop\New folder (2)\GraphPartitioning\GraphPartitioning\bin\Release\GraphPartitioning.exe.config
+C:\Users\Owner\Desktop\New folder (2)\GraphPartitioning\GraphPartitioning\bin\Release\GraphPartitioning.exe
+C:\Users\Owner\Desktop\New folder (2)\GraphPartitioning\GraphPartitioning\bin\Release\GraphPartitioning.pdb
+C:\Users\Owner\Desktop\New folder (2)\GraphPartitioning\GraphPartitioning\bin\Release\GraphPartitioningLibrary.dll
+C:\Users\Owner\Desktop\New folder (2)\GraphPartitioning\GraphPartitioning\bin\Release\GraphPartitioningLibrary.pdb
+C:\Users\Owner\Desktop\New folder (2)\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.csprojAssemblyReference.cache
+C:\Users\Owner\Desktop\New folder (2)\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.MainForm.resources
+C:\Users\Owner\Desktop\New folder (2)\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.Properties.Resources.resources
+C:\Users\Owner\Desktop\New folder (2)\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.RandomGraphForm.resources
+C:\Users\Owner\Desktop\New folder (2)\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.csproj.GenerateResource.cache
+C:\Users\Owner\Desktop\New folder (2)\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\New folder (2)\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.csproj.CopyComplete
+C:\Users\Owner\Desktop\New folder (2)\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.exe
+C:\Users\Owner\Desktop\New folder (2)\GraphPartitioning\GraphPartitioning\obj\Release\GraphPartitioning.pdb
